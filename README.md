@@ -109,5 +109,10 @@
 
 # Courses
 
+# Data
+* [alecjacobson/common-3d-test-models](https://github.com/alecjacobson/common-3d-test-models)
+  * more links inside
+* [Data for machine learning](https://github.com/timzhang642/3D-Machine-Learning#datasets)
+
 [cpp]: https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [python]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54
