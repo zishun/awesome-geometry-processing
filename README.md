@@ -58,6 +58,10 @@
 * [Open3D](http://www.open3d.org/) 
   ![python]
   ![star](https://img.shields.io/github/stars/isl-org/Open3D?style=flat)
+* [OpenGeode](https://github.com/Geode-solutions/OpenGeode)
+  ![cpp]
+  ![python]
+  ![star](https://img.shields.io/github/stars/Geode-solutions/OpenGeode?style=flat)
 * [OpenGP](https://github.com/OpenGP/OpenGP) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/OpenGP/OpenGP?style=flat)
