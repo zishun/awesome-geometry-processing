@@ -53,7 +53,7 @@
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
 * [MPI-IS Mesh](https://github.com/MPI-IS/mesh) 
-  ![cpp]
+  ![python]
   ![star](https://img.shields.io/github/stars/MPI-IS/mesh?style=flat)
 * [Open3D](http://www.open3d.org/) 
   ![python]
@@ -67,9 +67,14 @@
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
+* [Point Cloud Utils (pcu)](https://github.com/fwilliams/point-cloud-utils)
+  ![python]
+  ![star](https://img.shields.io/github/stars/fwilliams/point-cloud-utils?style=flat)
+  : a utility library providing the following functionality for 3D processing point clouds and triangle meshes.
 * [potpourri3d](https://github.com/nmwsharp/potpourri3d) 
   ![python]
   ![star](https://img.shields.io/github/stars/nmwsharp/potpourri3d?style=flat)
+  : mainly bindings to C++ tools from [geometry-central](https://github.com/nmwsharp/geometry-central).
 * [PyMesh(2)](https://github.com/PyMesh/PyMesh) 
   ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
   ![star](https://img.shields.io/github/stars/PyMesh/PyMesh?style=flat)
