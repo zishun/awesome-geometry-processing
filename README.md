@@ -37,6 +37,7 @@
 * [Lagrange (Adobe)](https://github.com/adobe/lagrange/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/adobe/lagrange?style=flat)
+  : A robust geometry processing library. [Doc](opensource.adobe.com/lagrange-docs/).
 * [LibIGL](http://libigl.github.io/libigl/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/libigl/libigl?style=flat)
