@@ -5,9 +5,11 @@
 ## General Libraries
 * [CGAL](https://www.cgal.org/) ![cpp]
   ![star](https://img.shields.io/github/stars/cgal/cgal?style=flat)
+  : The Computational Geometry Algorithms Library.
 * [cg3lib](https://github.com/cg3hci/cg3lib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/cg3hci/cg3lib?style=flat)
+  : a C++ geometry processing library developed by the CG3HCI Group of the University of Cagliari.
 * [CinoLib](https://github.com/mlivesu/cinolib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
@@ -57,6 +59,7 @@
   ![python]
   ![star](https://img.shields.io/github/stars/MPI-IS/mesh?style=flat)
 * [Open3D](http://www.open3d.org/) 
+  ![cpp]
   ![python]
   ![star](https://img.shields.io/github/stars/isl-org/Open3D?style=flat)
 * [OpenGeode](https://github.com/Geode-solutions/OpenGeode)
@@ -81,11 +84,14 @@
   ![star](https://img.shields.io/github/stars/nmwsharp/potpourri3d?style=flat)
   : mainly bindings to C++ tools from [geometry-central](https://github.com/nmwsharp/geometry-central).
 * [PyMesh(2)](https://github.com/PyMesh/PyMesh) 
-  ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
+  ![python]
   ![star](https://img.shields.io/github/stars/PyMesh/PyMesh?style=flat)
     * This is not [PyMesh](https://github.com/taxpon/pymesh)
 * [PyVista](https://github.com/orgs/pyvista/repositories) 
   ![python]
+* [Shapely](https://github.com/shapely/shapely)
+  ![python]
+  : for manipulation and analysis of **planar** geometric objects.
 * [trimesh](https://github.com/mikedh/trimesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
@@ -94,12 +100,14 @@
 * [UltiMaille](https://github.com/ssloy/ultimaille) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/ssloy/ultimaille?style=flat)
+  : allow to represent: point set, polyline, triangles, quads, polygons, tetrahedra, hexahedra, wedges, pyramids.
 * [VCGLib](https://github.com/cnr-isti-vclab/vcglib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/vcglib?style=flat)
 * [vedo](https://vedo.embl.es/) 
   ![python]
   ![star](https://img.shields.io/github/stars/marcomusy/vedo?style=flat)
+
 
 ## GUI
 * [starlab](https://github.com/OpenGP/starlab) ![cpp]
@@ -109,8 +117,24 @@
   ![cpp] ![python]
   ![star](https://img.shields.io/github/stars/nmwsharp/polyscope?style=flat)
   : a 3D data viewer
+* Some libraries in the general list above also include GUI or viewer.
 
-## Specific Libraries
+
+## Mesh Generation
+* [Quartet](https://github.com/crawforddoran/quartet)
+* [Tetgen](http://wias-berlin.de/software/tetgen/)
+* [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
+* [WildMeshing](https://github.com/wildmeshing)
+
+## Constructive Solid Geometry (CSG)
+* [Carve](https://github.com/qnzhou/carve)
+* [Cork](https://github.com/gilbo/cork)
+* [OpenSCAD](https://openscad.org/): creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
+* [Clipper](http://www.angusj.com/delphi/clipper.php): an open source freeware
+  library for clipping and offsetting 2D lines and polygons.
+
+
+## Others
 * [Directional](https://avaxman.github.io/Directional/tutorial/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/avaxman/Directional?style=flat)
@@ -118,12 +142,14 @@
 * [mmg](https://github.com/MmgTools/mmg) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/MmgTools/mmg?style=flat)
-  : 2D and 3D surface and volume remeshing
+  : 2D and 3D surface and volume remeshing.
 * [Voro++](http://math.lbl.gov/voro++/) 
   ![cpp]
   : 3D computations of the Voronoi tessellation.
 * [ShapeOp](https://github.com/EPFL-LGG/ShapeOp)
   ![cpp]
+  : discrete geometry shaping with projections.
+* [Draco](https://google.github.io/draco/): an open-source library for compressing and decompressing 3D geometric meshes and point clouds.
 
 
 # Books
