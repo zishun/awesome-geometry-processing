@@ -126,19 +126,23 @@
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
 * [WildMeshing](https://github.com/wildmeshing)
 
+
 ## Constructive Solid Geometry (CSG)
 * [Carve](https://github.com/qnzhou/carve)
 * [Cork](https://github.com/gilbo/cork)
+  ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
 * [OpenSCAD](https://openscad.org/): creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
-* [Clipper](http://www.angusj.com/delphi/clipper.php): an open source freeware
-  library for clipping and offsetting 2D lines and polygons.
+* [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
+* MeshLab
+  * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401).
+  * After v2021.07: based on libigl's implementation of [Mesh arrangements for solid geometry](https://doi.org/10.1145/2897824.2925901).
 
 
 ## Others
 * [Directional](https://avaxman.github.io/Directional/tutorial/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/avaxman/Directional?style=flat)
-  : a C++ library for creating, manipulating and visualizing directional fields on 3D meshes, based on both libigl and Eigen.
+  : creating, manipulating and visualizing directional fields on 3D meshes, based on both libigl and Eigen.
 * [mmg](https://github.com/MmgTools/mmg) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/MmgTools/mmg?style=flat)
