@@ -131,7 +131,9 @@
 * [Carve](https://github.com/qnzhou/carve)
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
-* [OpenSCAD](https://openscad.org/): creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
+* [OpenSCAD](https://openscad.org/)
+  ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
+  : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
 * [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
 * MeshLab
   * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401).
