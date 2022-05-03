@@ -126,7 +126,7 @@
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
 * [WildMeshing](https://github.com/wildmeshing)
 * [jigsaw](https://github.com/dengwirda/jigsaw-python)
-  [!python]
+  ![python]
   ![star](https://img.shields.io/github/stars/dengwirda/jigsaw-python?style=flat)
   : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface and volumetric domains.
 
