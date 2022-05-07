@@ -46,7 +46,7 @@
   * [libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
     ![python]
     ![star](https://img.shields.io/github/stars/libigl/libigl-python-bindings?style=flat)
-* [meshlab](https://github.com/cnr-isti-vclab/meshlab)
+* [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=flat)
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) 
@@ -125,8 +125,15 @@
 * [Tetgen](http://wias-berlin.de/software/tetgen/)
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
 * [WildMeshing](https://github.com/wildmeshing)
-* [jigsaw](https://github.com/dengwirda/jigsaw-python)
-  ![python]
+  * [TriWild](https://github.com/wildmeshing/TriWild) ![cpp] ![star](https://img.shields.io/github/stars/wildmeshing/TriWild?style=flat)
+    TriWild: Robust Triangulation with Curve Constraints
+  * [fTetWild](https://github.com/wildmeshing/fTetWild) ![cpp] ![star](https://img.shields.io/github/stars/wildmeshing/fTetWild?style=flat)
+    Fast Tetrahedral Meshing in the Wild
+  * [wildmeshing-python](https://github.com/wildmeshing/wildmeshing-python) ![python] ![star](https://img.shields.io/github/stars/wildmeshing/wildmeshing-python?style=flat)
+* [jigsaw](https://github.com/dengwirda/jigsaw)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/dengwirda/jigsaw?style=flat)
+  [![python]](https://github.com/dengwirda/jigsaw-python)
   ![star](https://img.shields.io/github/stars/dengwirda/jigsaw-python?style=flat)
   : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface and volumetric domains.
 
