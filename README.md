@@ -125,6 +125,8 @@
 
 ## Mesh Generation
 * [Quartet](https://github.com/crawforddoran/quartet)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/crawforddoran/quartet?style=flat)
 * [Tetgen](http://wias-berlin.de/software/tetgen/)
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
 * [WildMeshing](https://github.com/wildmeshing)
@@ -142,16 +144,36 @@
 
 
 ## Constructive Solid Geometry (CSG)
-* [Carve](https://github.com/qnzhou/carve)
+* [Carve](https://github.com/PyMesh/carve), in PyMesh.
+* [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
-* [OpenSCAD](https://openscad.org/)
-  ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
-  : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
-* [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
 * MeshLab
   * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401).
   * After v2021.07: based on libigl's implementation of [Mesh arrangements for solid geometry](https://doi.org/10.1145/2897824.2925901).
+* [OpenSCAD](https://openscad.org/)
+  ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
+  : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
+
+
+## Geodesic Distance
+Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
+* PDE-based
+  * Heat method, Crane et al., 2013.
+    * Many implementations available.
+  * Fast Marching
+    * In [gproshan](https://github.com/larc/gproshan).
+    * [Kimmel and Sethian 1998](https://doi.org/10.1073/pnas.95.15.8431), implemented in [pmp-library](https://github.com/pmp-library/pmp-library/blob/850f2fcbd4ec1d7efcbe5843af1ec1207361bfa6/src/pmp/algorithms/SurfaceGeodesic.h).
+* Window propagation
+  * MMP: an exact method proposed by [Mitchell-Mount-Papadimitriou 1987](https://doi.org/10.1137/0216045)
+    * Kirsanov's [code](https://code.google.com/p/geodesic/)
+    * In [UVAtlas](https://github.com/microsoft/UVAtlas/tree/master/UVAtlas/geodesics).
+  * [CH (Chen and Han 1990)](https://doc.cgal.org/latest/Surface_mesh_shortest_path/index.html)
+  * [Xin and Wang 2009](https://sites.google.com/site/xinshiqing/knowledge-share)
+* Graph-based: SVG (Saddle Vertex Graph), DGG (Discrete Geodesic Graphs), VTP (Vertex-oriented Triangle Propagation)
+  * [YiPeng Qin's VTP](https://github.com/YipengQin/VTP_source_code)
+  * [DGG-SVG](https://github.com/GeodesicGraph/DGG-SVG)
+  * [Du et al., 2020](https://doi.org/10.1016/j.cad.2020.102943): [code](https://github.com/djie-0329/PVTP)
 
 
 ## Others
