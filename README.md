@@ -75,6 +75,9 @@
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
+* [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)
 * [Point Cloud Utils (pcu)](https://github.com/fwilliams/point-cloud-utils)
   ![python]
   ![star](https://img.shields.io/github/stars/fwilliams/point-cloud-utils?style=flat)
