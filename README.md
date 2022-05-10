@@ -203,6 +203,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 # Courses
 * [Alec Jacobson's courses](https://github.com/alecjacobson)
 * [Geometric Computing with Python](https://geometryprocessing.github.io/geometric-computing-python/)
+* [Discrete Differential Geometry](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/) by Keenan Crane
 
 
 # Data
