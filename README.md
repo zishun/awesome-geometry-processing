@@ -89,6 +89,7 @@
 * [PyMesh(2)](https://github.com/PyMesh/PyMesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/PyMesh/PyMesh?style=flat)
+    * [Issue with Windows](https://github.com/PyMesh/PyMesh/issues/103)
     * This is not [PyMesh](https://github.com/taxpon/pymesh)
 * [PyVista](https://github.com/orgs/pyvista/repositories) 
   ![python]
@@ -129,6 +130,9 @@
   ![star](https://img.shields.io/github/stars/crawforddoran/quartet?style=flat)
 * [Tetgen](http://wias-berlin.de/software/tetgen/)
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
+  ![cpp]
+  * [python binding](https://github.com/drufat/triangle)
+    ![python]
 * [WildMeshing](https://github.com/wildmeshing)
   * [TriWild](https://github.com/wildmeshing/TriWild) ![cpp] ![star](https://img.shields.io/github/stars/wildmeshing/TriWild?style=flat)
     TriWild: Robust Triangulation with Curve Constraints
@@ -141,6 +145,19 @@
   [![python]](https://github.com/dengwirda/jigsaw-python)
   ![star](https://img.shields.io/github/stars/dengwirda/jigsaw-python?style=flat)
   : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface and volumetric domains.
+* [Gmsh](http://gmsh.info/)
+  ![cpp] ![python]
+  : A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
+* [MeshPy](https://github.com/inducer/meshpy)
+  ![python]
+  ![star](https://img.shields.io/github/stars/inducer/meshpy?style=flat)
+  : Python interfaces to Triangle, TetGen, and gmsh.
+* [Voro++](http://math.lbl.gov/voro++/) 
+  ![cpp]
+  : 3D computations of the Voronoi tessellation.
+* [scipy.spatial](https://docs.scipy.org/doc/scipy-1.8.0/html-scipyorg/reference/spatial.html#delaunay-triangulation-convex-hulls-and-voronoi-diagrams)
+  ![python]
+  : Delaunay triangulation, convex hulls, and Voronoi diagrams.
 
 
 ## Constructive Solid Geometry (CSG)
@@ -162,7 +179,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
   * Heat method, [Crane et al., 2013](https://doi.org/10.1145/2516971.2516977).
     * Many implementations available.
   * Fast Marching
-    * In [gproshan](https://github.com/larc/gproshan) (CHE data structure). [MeshUtility](https://github.com/zishun/meshutility/) (OpenMesh data structure).
+    * In [gproshan](https://github.com/larc/gproshan) (CHE data structure). [MeshUtility](https://github.com/zishun/meshutility/) (OpenMesh data structure) ![python].
     * [Kimmel and Sethian 1998](https://doi.org/10.1073/pnas.95.15.8431), implemented in [pmp-library](https://github.com/pmp-library/pmp-library/blob/850f2fcbd4ec1d7efcbe5843af1ec1207361bfa6/src/pmp/algorithms/SurfaceGeodesic.h).
 * Window propagation
   * MMP: an exact method proposed by [Mitchell-Mount-Papadimitriou 1987](https://doi.org/10.1137/0216045)
@@ -187,9 +204,6 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
   ![cpp]
   ![star](https://img.shields.io/github/stars/MmgTools/mmg?style=flat)
   : 2D and 3D surface and volume remeshing.
-* [Voro++](http://math.lbl.gov/voro++/) 
-  ![cpp]
-  : 3D computations of the Voronoi tessellation.
 * [ShapeOp](https://github.com/EPFL-LGG/ShapeOp)
   ![cpp]
   : discrete geometry shaping with projections.
