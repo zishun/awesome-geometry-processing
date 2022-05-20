@@ -72,6 +72,7 @@
 * [OpenMesh](https://www.openmesh.org/) 
   ![cpp]
   [![python]](https://www.graphics.rwth-aachen.de:9000/OpenMesh/openmesh-python) 
+  : Half-edge data structure.
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
