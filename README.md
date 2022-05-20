@@ -1,4 +1,4 @@
-# Libraries
+# Libraries for Geometry Processing (GP)
 <!--
 ![star](https://img.shields.io/github/stars/<user>/<repo>?style=flat)
 -->
@@ -20,7 +20,7 @@
 * [Euclid](https://github.com/unclejimbo/Euclid) 
   ![cpp] 
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
-* [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html) 
+* [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html)
   ![cpp]
   : [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)
 * [Geometry Central](https://github.com/nmwsharp/geometry-central) 
@@ -95,7 +95,11 @@
   ![python]
 * [Shapely](https://github.com/shapely/shapely)
   ![python]
+  ![star](https://img.shields.io/github/stars/shapely/shapely?style=flat)
   : for manipulation and analysis of **planar** geometric objects.
+* [Thea](https://github.com/sidch/Thea)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/sidch/Thea?style=flat)
 * [trimesh](https://github.com/mikedh/trimesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
@@ -108,12 +112,13 @@
 * [VCGLib](https://github.com/cnr-isti-vclab/vcglib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/vcglib?style=flat)
+  : used by MeshLab.
 * [vedo](https://vedo.embl.es/) 
   ![python]
   ![star](https://img.shields.io/github/stars/marcomusy/vedo?style=flat)
 
 
-## GUI
+## GUI for GP
 * [starlab](https://github.com/OpenGP/starlab) ![cpp]
   ![star](https://img.shields.io/github/stars/OpenGP/starlab?style=flat)
 * [OpenFlipper](https://www.graphics.rwth-aachen.de/software/openflipper/) ![cpp]
@@ -122,15 +127,26 @@
   ![star](https://img.shields.io/github/stars/nmwsharp/polyscope?style=flat)
   : a 3D data viewer
 * Some libraries in the general list above also include GUI or viewer.
+<details>
+<summary>more</summary>
+  * https://github.com/embree/embree
+  * https://github.com/mmatl/pyrender
+  * https://github.com/moderngl/moderngl
+  * http://pyopengl.sourceforge.net/
+  * https://pyglet.org/
+  * https://www.panda3d.org/ and other game engines.
+</details>
 
 
 ## Mesh Generation
 * [Quartet](https://github.com/crawforddoran/quartet)
   ![cpp]
   ![star](https://img.shields.io/github/stars/crawforddoran/quartet?style=flat)
-* [Tetgen](http://wias-berlin.de/software/tetgen/)
+* [TetGen](http://wias-berlin.de/software/tetgen/)
+  : A quality tetrahedral mesh generator and a 3D Delaunay triangulator.
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
   ![cpp]
+  : A two-dimensional quality mesh generator and Delaunay triangulator.
   * [python binding](https://github.com/drufat/triangle)
     ![python]
 * [WildMeshing](https://github.com/wildmeshing)
@@ -171,6 +187,7 @@
 * [OpenSCAD](https://openscad.org/)
   ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
+* https://github.com/sallesviana/MeshIntersection
 
 
 ## Geodesic Distance
@@ -190,7 +207,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
   * VTP (Vertex-oriented Triangle Propagation)
     * [Du et al., 2020](https://doi.org/10.1016/j.cad.2020.102943): [code](https://github.com/djie-0329/PVTP)
     * [Qin et al., 2016](https://doi.org/10.1145/2897824.2925930): [code](https://github.com/YipengQin/VTP_source_code)
-  * [GSP (Geodesic Source Propagation)](https://graphics.rwth-aachen.de/geodesic-source-propagation). code in its appendix.
+  * [GSP (Geodesic Source Propagation)](https://graphics.rwth-aachen.de/geodesic-source-propagation). code in its supplemental material.
 * Graph-based: SVG (Saddle Vertex Graph), DGG (Discrete Geodesic Graphs),
   * [DGG-SVG](https://github.com/GeodesicGraph/DGG-SVG)
 
@@ -208,6 +225,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
   ![cpp]
   : discrete geometry shaping with projections.
 * [Draco](https://google.github.io/draco/): an open-source library for compressing and decompressing 3D geometric meshes and point clouds.
+* [Robust Geometric Predicates](https://www.cs.cmu.edu/~quake/robust.html): adaptive precision floating-point arithmetic and fast robust predicates for computational geometry
 
 
 # Books
