@@ -129,6 +129,7 @@
 * Some libraries in the general list above also include GUI or viewer.
 <details>
 <summary>more</summary>
+  * https://github.com/enthought/mayavi
   * https://github.com/embree/embree
   * https://github.com/mmatl/pyrender
   * https://github.com/moderngl/moderngl
@@ -242,6 +243,17 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * [alecjacobson/common-3d-test-models](https://github.com/alecjacobson/common-3d-test-models)
   * more links inside
 * [Data for machine learning](https://github.com/timzhang642/3D-Machine-Learning#datasets)
+
+
+# Lists on Other Computer Graphics Topics
+* https://github.com/tensorush/Awesome-3D-Programming
+* https://github.com/luisnts/awesome-computer-graphics
+* https://github.com/waitin2010/awesome-computer-graphics
+* https://github.com/jslee02/awesome-graphics-libraries
+* https://github.com/ericjang/awesome-graphics
+* https://github.com/eug/awesome-opengl
+* https://github.com/zheng95z/fun-with-computer-graphics
+
 
 
 [cpp]: https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
