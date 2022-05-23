@@ -33,6 +33,10 @@
 * [Graphite](http://alice.loria.fr/software/graphite/doc/html/) 
   ![cpp]
   : [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)
+* [GUDHI](https://github.com/GUDHI)
+  ![cpp]
+  ![python]
+  : Geometry Understanding in Higher Dimensions, a generic open source library for Topological Data Analysis (TDA).
 * [Hugues Hoppe's library](https://github.com/hhoppe/Mesh-processing-library) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library?style=flat)
@@ -106,6 +110,11 @@
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
     * This is not [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) 
       ![cpp]
+* [TTK](https://github.com/topology-tool-kit/ttk)
+  ![cpp]
+  ![python]
+  ![star](https://img.shields.io/github/stars/topology-tool-kit/ttk?style=flat)
+  : The Topology ToolKit for efficient, generic and easy topological data analysis and visualization.
 * [UltiMaille](https://github.com/ssloy/ultimaille) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/ssloy/ultimaille?style=flat)
@@ -117,6 +126,10 @@
 * [vedo](https://vedo.embl.es/) 
   ![python]
   ![star](https://img.shields.io/github/stars/marcomusy/vedo?style=flat)
+* [VTK](https://vtk.org/)
+  ![cpp]
+  ![python]
+  ![star](https://img.shields.io/github/stars/Kitware/VTK?style=flat)
 
 
 ## GUI for GP
