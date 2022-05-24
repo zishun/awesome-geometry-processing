@@ -260,6 +260,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 
 # Lists on Other Computer Graphics Topics
+* Mesh Repairing Software on the Web: http://meshrepair.org/
 * https://github.com/tensorush/Awesome-3D-Programming
 * https://github.com/luisnts/awesome-computer-graphics
 * https://github.com/waitin2010/awesome-computer-graphics
