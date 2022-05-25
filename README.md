@@ -256,6 +256,13 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * https://github.com/zheng95z/fun-with-computer-graphics
 
 
+# Lists from Other Communities
+* https://github.com/eric-erki/awesome-gis/
+* https://github.com/RoboDonut/awesome-spatial
+* https://github.com/fepegar/awesome-medical-imaging
+* https://github.com/ccamara/awesome-architecture
+
+
 
 [cpp]: https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [python]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54
