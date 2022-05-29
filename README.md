@@ -143,6 +143,7 @@
 * Some libraries in the general list above also include GUI or viewer.
 <details>
 <summary>more</summary>
+  * https://github.com/cg3hci/py3DViewer
   * https://github.com/enthought/mayavi
   * https://github.com/embree/embree
   * https://github.com/mmatl/pyrender
@@ -248,6 +249,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 
 # Courses
+* [SGP Summer School Presentations](http://school.geometryprocessing.org/): from 2016.
 * [Alec Jacobson's courses](https://github.com/alecjacobson)
 * [Geometric Computing with Python](https://geometryprocessing.github.io/geometric-computing-python/)
 * [Discrete Differential Geometry](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/) by Keenan Crane
