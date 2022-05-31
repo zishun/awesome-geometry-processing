@@ -56,6 +56,7 @@
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) 
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
+* [MeshLib](https://github.com/MeshInspector/MeshLib)
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
@@ -190,6 +191,8 @@
 * [scipy.spatial](https://docs.scipy.org/doc/scipy-1.8.0/html-scipyorg/reference/spatial.html#delaunay-triangulation-convex-hulls-and-voronoi-diagrams)
   ![python]
   : Delaunay triangulation, convex hulls, and Voronoi diagrams.
+* [Qhull](https://github.com/qhull/qhull)
+  : Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection
 
 
 ## Constructive Solid Geometry (CSG)
@@ -197,6 +200,7 @@
 * [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
+* [mcut](https://github.com/cutdigital/mcut/)
 * MeshLab
   * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401).
   * After v2021.07: based on libigl's implementation of [Mesh arrangements for solid geometry](https://doi.org/10.1145/2897824.2925901).
