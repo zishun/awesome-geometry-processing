@@ -277,6 +277,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 
 # Lists from Other Communities
+* https://github.com/nschloe/awesome-scientific-computing
 * https://github.com/eric-erki/awesome-gis/
 * https://github.com/RoboDonut/awesome-spatial
 * https://github.com/fepegar/awesome-medical-imaging
