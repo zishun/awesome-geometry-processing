@@ -268,6 +268,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 # Other Lists on Geometry Processing
 * [SGP Software/Dataset Award List](http://awards.geometryprocessing.org/)
 * [Mesh Repairing Software on the Web](http://meshrepair.org/)
+* [Graphics Replicability Stamp Initiative](http://www.replicabilitystamp.org/)
 
 
 # Lists on Other Computer Graphics Topics
