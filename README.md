@@ -23,6 +23,9 @@
 * [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html)
   ![cpp]
   : [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)
+* [Geometric Tools](https://www.geometrictools.com/)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
 * [Geometry Central](https://github.com/nmwsharp/geometry-central) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central?style=flat)
