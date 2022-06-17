@@ -17,6 +17,9 @@
 * [DGtal](https://github.com/DGtal-team/DGtal)
   ![cpp] 
   ![star](https://img.shields.io/github/stars/DGtal-team/DGtal?style=flat)
+* [Easy3D](https://github.com/LiangliangNan/Easy3D/)
+  ![cpp] 
+  ![star](https://img.shields.io/github/stars/LiangliangNan/Easy3D?style=flat)
 * [Euclid](https://github.com/unclejimbo/Euclid) 
   ![cpp] 
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
@@ -60,6 +63,8 @@
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
 * [MeshLib](https://github.com/MeshInspector/MeshLib)
+* [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe):
+  : a python-based tool for easy automation and demonstration of geometry processing pipelines. [paper](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
@@ -84,6 +89,7 @@
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
+    * Its prior work: [paper](https://doi.org/10.1007/978-3-642-24734-7_29).
 * [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
   ![cpp]
   ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)
