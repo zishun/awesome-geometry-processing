@@ -112,8 +112,11 @@
 * [trimesh](https://github.com/mikedh/trimesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
-    * This is not [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) 
-      ![cpp]
+* [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/)
+    ![cpp]
+    : different from the trimesh library above.
+    * [github fork](https://github.com/Forceflow/trimesh2)
+    ![star](https://img.shields.io/github/stars/Forceflow/trimesh2?style=flat)
 * [TTK](https://github.com/topology-tool-kit/ttk)
   ![cpp]
   ![python]
