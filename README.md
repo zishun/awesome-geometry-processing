@@ -156,14 +156,16 @@
 * Some libraries in the general list above also include GUI or viewer.
 <details>
 <summary>more</summary>
-  * https://github.com/cg3hci/py3DViewer
-  * https://github.com/enthought/mayavi
-  * https://github.com/embree/embree
-  * https://github.com/mmatl/pyrender
-  * https://github.com/moderngl/moderngl
-  * http://pyopengl.sourceforge.net/
-  * https://pyglet.org/
-  * https://www.panda3d.org/ and other game engines.
+
+* https://github.com/cg3hci/py3DViewer
+* https://github.com/enthought/mayavi
+* https://github.com/embree/embree
+* https://github.com/mmatl/pyrender
+* https://github.com/moderngl/moderngl
+* http://pyopengl.sourceforge.net/
+* https://pyglet.org/
+* https://www.panda3d.org/ and other game engines.
+
 </details>
 
 
