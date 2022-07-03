@@ -62,7 +62,7 @@
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) 
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
-* [MeshLib](https://github.com/MeshInspector/MeshLib)
+* [MeshLib](https://github.com/MeshInspector/MeshLib) by MeshInspector.
 * [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe):
   : a python-based tool for easy automation and demonstration of geometry processing pipelines. [paper](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
@@ -127,11 +127,11 @@
   ![cpp]
   ![python]
   ![star](https://img.shields.io/github/stars/topology-tool-kit/ttk?style=flat)
-  : The Topology ToolKit for efficient, generic and easy topological data analysis and visualization.
+  : The Topology ToolKit for efficient, generic, and easy topological data analysis and visualization.
 * [UltiMaille](https://github.com/ssloy/ultimaille) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/ssloy/ultimaille?style=flat)
-  : allow to represent: point set, polyline, triangles, quads, polygons, tetrahedra, hexahedra, wedges, pyramids.
+  : allow representing: point set, polyline, triangles, quads, polygons, tetrahedra, hexahedra, wedges, pyramids.
 * [VCGLib](https://github.com/cnr-isti-vclab/vcglib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/vcglib?style=flat)
@@ -181,9 +181,13 @@
   * [python binding](https://github.com/drufat/triangle)
     ![python]
 * [WildMeshing](https://github.com/wildmeshing)
-  * [TriWild](https://github.com/wildmeshing/TriWild) ![cpp] ![star](https://img.shields.io/github/stars/wildmeshing/TriWild?style=flat)
+  * [TriWild](https://github.com/wildmeshing/TriWild) 
+    ![cpp] 
+    ![star](https://img.shields.io/github/stars/wildmeshing/TriWild?style=flat)
     TriWild: Robust Triangulation with Curve Constraints
-  * [fTetWild](https://github.com/wildmeshing/fTetWild) ![cpp] ![star](https://img.shields.io/github/stars/wildmeshing/fTetWild?style=flat)
+  * [fTetWild](https://github.com/wildmeshing/fTetWild) 
+    ![cpp] 
+    ![star](https://img.shields.io/github/stars/wildmeshing/fTetWild?style=flat)
     Fast Tetrahedral Meshing in the Wild
   * [wildmeshing-python](https://github.com/wildmeshing/wildmeshing-python) ![python] ![star](https://img.shields.io/github/stars/wildmeshing/wildmeshing-python?style=flat)
 * [jigsaw](https://github.com/dengwirda/jigsaw)
@@ -250,7 +254,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * [Directional](https://avaxman.github.io/Directional/tutorial/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/avaxman/Directional?style=flat)
-  : creating, manipulating and visualizing directional fields on 3D meshes, based on both libigl and Eigen.
+  : creating, manipulating, and visualizing directional fields on 3D meshes, based on both libigl and Eigen.
 * [mmg](https://github.com/MmgTools/mmg) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/MmgTools/mmg?style=flat)
