@@ -13,7 +13,7 @@
 * [CinoLib](https://github.com/mlivesu/cinolib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
-  : a generic programming header only C++ library for processing polygonal and polyhedral meshes.
+  : a generic programming header-only C++ library for processing polygonal and polyhedral meshes.
 * [DGtal](https://github.com/DGtal-team/DGtal)
   ![cpp] 
   ![star](https://img.shields.io/github/stars/DGtal-team/DGtal?style=flat)
@@ -63,7 +63,7 @@
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
 * [MeshLib](https://github.com/MeshInspector/MeshLib) by MeshInspector.
-* [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe):
+* [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
   : a python-based tool for easy automation and demonstration of geometry processing pipelines. [paper](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
@@ -195,7 +195,7 @@
   ![star](https://img.shields.io/github/stars/dengwirda/jigsaw?style=flat)
   [![python]](https://github.com/dengwirda/jigsaw-python)
   ![star](https://img.shields.io/github/stars/dengwirda/jigsaw-python?style=flat)
-  : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface and volumetric domains.
+  : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface, and volumetric domains.
 * [Gmsh](http://gmsh.info/)
   ![cpp] ![python]
   : A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
@@ -232,7 +232,7 @@
 Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * PDE-based
   * Heat method, [Crane et al., 2013](https://doi.org/10.1145/2516971.2516977).
-    * Many implementations available.
+    * Many implementations are available.
   * Fast Marching
     * In [gproshan](https://github.com/larc/gproshan) (CHE data structure). [MeshUtility](https://github.com/zishun/meshutility/) (OpenMesh data structure) ![python].
     * [Kimmel and Sethian 1998](https://doi.org/10.1073/pnas.95.15.8431), implemented in [pmp-library](https://github.com/pmp-library/pmp-library/blob/850f2fcbd4ec1d7efcbe5843af1ec1207361bfa6/src/pmp/algorithms/SurfaceGeodesic.h).
