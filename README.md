@@ -216,6 +216,9 @@
 ## Constructive Solid Geometry (CSG)
 * [Carve](https://github.com/PyMesh/carve), in PyMesh.
 * [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
+  * [Clipper2](https://github.com/AngusJohnson/Clipper2)
+    ![star](https://img.shields.io/github/stars/AngusJohnson/Clipper2?style=flat)
+    : a major update.
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
 * [mcut](https://github.com/cutdigital/mcut/)
