@@ -9,7 +9,7 @@
 * [cg3lib](https://github.com/cg3hci/cg3lib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/cg3hci/cg3lib?style=flat)
-  : a C++ geometry processing library developed by the CG3HCI Group of the University of Cagliari.
+  : a geometry processing library developed by the CG3HCI Group of the University of Cagliari.
 * [CinoLib](https://github.com/mlivesu/cinolib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
@@ -25,20 +25,22 @@
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
 * [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html)
   ![cpp]
-  : [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)
-* [Geometric Tools](https://www.geometrictools.com/)
+  : contains the main results in Geometry Processing from the former ALICE Inria project. [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)
+* [Geometric Tools](https://github.com/davideberly/GeometricTools)
   ![cpp]
   ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
+  : [website](https://www.geometrictools.com/)
 * [Geometry Central](https://github.com/nmwsharp/geometry-central) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central?style=flat)
+  : [Doc](http://geometry-central.net/)
 * [gproshan](https://github.com/larc/gproshan)
   ![cpp]
   ![star](https://img.shields.io/github/stars/larc/gproshan?style=flat)
   : using Compact Half–Edge (CHE) data structure.
 * [Graphite](http://alice.loria.fr/software/graphite/doc/html/) 
   ![cpp]
-  : [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)
+  : an experimental 3D modeler, built around geogram. [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)
 * [GUDHI](https://github.com/GUDHI)
   ![cpp]
   ![python]
@@ -46,6 +48,7 @@
 * [Hugues Hoppe's library](https://github.com/hhoppe/Mesh-processing-library) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library?style=flat)
+  : libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-1998)
 * [Lagrange (Adobe)](https://github.com/adobe/lagrange/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/adobe/lagrange?style=flat)
@@ -62,9 +65,9 @@
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) 
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
-* [MeshLib](https://github.com/MeshInspector/MeshLib) by MeshInspector.
+* [MeshLib](https://github.com/MeshInspector/MeshLib) ![cpp] by MeshInspector.
 * [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
-  : a python-based tool for easy automation and demonstration of geometry processing pipelines. [paper](https://doi.org/DOI:10.5220/0008935900710082).
+  : a python-based tool for easy automation and demonstration of geometry processing pipelines [(paper)](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
@@ -174,6 +177,7 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/crawforddoran/quartet?style=flat)
 * [TetGen](http://wias-berlin.de/software/tetgen/)
+  ![cpp]
   : A quality tetrahedral mesh generator and a 3D Delaunay triangulator.
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
   ![cpp]
@@ -210,10 +214,12 @@
   ![python]
   : Delaunay triangulation, convex hulls, and Voronoi diagrams.
 * [Qhull](https://github.com/qhull/qhull)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/qhull/qhull?style=flat)
   : Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection
 
 
-## Constructive Solid Geometry (CSG)
+## Boolean Operations
 * [Carve](https://github.com/PyMesh/carve), in PyMesh.
 * [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
   * [Clipper2](https://github.com/AngusJohnson/Clipper2)
@@ -223,13 +229,15 @@
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
 * GeoGram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806).
 * [mcut](https://github.com/cutdigital/mcut/)
+  ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
 * MeshLab
   * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401).
   * After v2021.07: based on libigl's implementation of [Mesh arrangements for solid geometry](https://doi.org/10.1145/2897824.2925901).
 * [OpenSCAD](https://openscad.org/)
   ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
-* https://github.com/sallesviana/MeshIntersection
+* [MeshIntersection](https://github.com/sallesviana/MeshIntersection)
+  ![star](https://img.shields.io/github/stars/sallesviana/MeshIntersection?style=flat)
 
 
 ## Geodesic Distance
