@@ -227,6 +227,10 @@
     : a major update.
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
+* CGAL:
+  * Corefinement for boolean operations in [Polygon Mesh Processing
+ library](https://doc.cgal.org/latest/Manual/packages.html#PkgPolygonMeshProcessing)
+  * 3D Boolean Operations on [Nef Polyhedra](https://doc.cgal.org/latest/Manual/packages.html#PkgNef3).
 * GeoGram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806).
 * [mcut](https://github.com/cutdigital/mcut/)
   ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
