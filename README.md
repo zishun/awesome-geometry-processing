@@ -242,6 +242,8 @@
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
 * [MeshIntersection](https://github.com/sallesviana/MeshIntersection)
   ![star](https://img.shields.io/github/stars/sallesviana/MeshIntersection?style=flat)
+* [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat): [paper](https://doi.org/10.1145/3414685.3417818)
+
 
 
 ## Geodesic Distance
