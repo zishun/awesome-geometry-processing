@@ -235,14 +235,14 @@
 * [mcut](https://github.com/cutdigital/mcut/)
   ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
 * MeshLab
-  * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401).
+  * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401). A more efficient approach based on [LDNI](https://github.com/zishun/LDNI-based-Solid-Modeling).
   * After v2021.07: based on libigl's implementation of [Mesh arrangements for solid geometry](https://doi.org/10.1145/2897824.2925901).
 * [OpenSCAD](https://openscad.org/)
   ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
 * [MeshIntersection](https://github.com/sallesviana/MeshIntersection)
   ![star](https://img.shields.io/github/stars/sallesviana/MeshIntersection?style=flat)
-* [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat): [paper](https://doi.org/10.1145/3414685.3417818)
+* [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat): This code is subject to continuous updates. [paper](https://doi.org/10.1145/3414685.3417818).
 
 
 
@@ -259,7 +259,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
     * Kirsanov's [code](https://code.google.com/p/geodesic/)
     * In [UVAtlas](https://github.com/microsoft/UVAtlas/tree/master/UVAtlas/geodesics).
   * CH: [Chen and Han 1990](https://doc.cgal.org/latest/Surface_mesh_shortest_path/index.html)
-  * ICH: [Xin and Wang 2009](https://sites.google.com/site/xinshiqing/knowledge-share)
+  * ICH (Improved CH): [Xin and Wang 2009](https://sites.google.com/site/xinshiqing/knowledge-share)
   * VTP (Vertex-oriented Triangle Propagation)
     * [Du et al., 2020](https://doi.org/10.1016/j.cad.2020.102943): [code](https://github.com/djie-0329/PVTP)
     * [Qin et al., 2016](https://doi.org/10.1145/2897824.2925930): [code](https://github.com/YipengQin/VTP_source_code)
