@@ -59,6 +59,10 @@
   * [libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
     ![python]
     ![star](https://img.shields.io/github/stars/libigl/libigl-python-bindings?style=flat)
+* [Manifold](https://github.com/elalish/manifold)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/elalish/manifold?style=flat)
+  : a geometry library dedicated to creating and operating on manifold triangle meshes. 
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=flat)
