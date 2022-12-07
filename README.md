@@ -93,6 +93,10 @@
   ![cpp]
   [![python]](https://www.graphics.rwth-aachen.de:9000/OpenMesh/openmesh-python) 
   : Half-edge data structure.
+* [OpenVDB](https://www.openvdb.org/)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/AcademySoftwareFoundation/openvdb?style=flat)
+  : Sparse volume data structure and tools
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
