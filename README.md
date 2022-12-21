@@ -324,6 +324,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * https://github.com/ericjang/awesome-graphics
 * https://github.com/eug/awesome-opengl
 * https://github.com/zheng95z/fun-with-computer-graphics
+* https://web.engr.oregonstate.edu/~zhange/hotlist.html
 
 
 # Lists from Other Communities
