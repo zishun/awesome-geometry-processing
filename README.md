@@ -233,6 +233,9 @@
   * [Clipper2](https://github.com/AngusJohnson/Clipper2)
     ![star](https://img.shields.io/github/stars/AngusJohnson/Clipper2?style=flat)
     : a major update.
+  * [pyclipper](https://github.com/fonttools/pyclipper)
+    ![python]
+    ![star](https://img.shields.io/github/stars/fonttools/pyclipper?style=flat)
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
 * CGAL:
