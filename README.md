@@ -250,7 +250,8 @@
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
 * [MeshIntersection](https://github.com/sallesviana/MeshIntersection)
   ![star](https://img.shields.io/github/stars/sallesviana/MeshIntersection?style=flat)
-* [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat): This code is subject to continuous updates. [paper](https://doi.org/10.1145/3550454.3555460).
+* [Interactive And Robust Mesh Booleans](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans) ![star](https://img.shields.io/github/stars/gcherchi/InteractiveAndRobustMeshBooleans?style=flat): This code is subject to continuous updates. [paper](https://doi.org/10.1145/3550454.3555460).
+  * [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat)
 
 
 
