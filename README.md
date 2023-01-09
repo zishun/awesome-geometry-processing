@@ -150,10 +150,12 @@
 * [vedo](https://vedo.embl.es/) 
   ![python]
   ![star](https://img.shields.io/github/stars/marcomusy/vedo?style=flat)
+  : A python module for scientific analysis and visualization of 3d objects.
 * [VTK](https://vtk.org/)
   ![cpp]
   ![python]
   ![star](https://img.shields.io/github/stars/Kitware/VTK?style=flat)
+  : The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
 
 
 ## GUI for GP
