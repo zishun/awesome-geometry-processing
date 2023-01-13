@@ -25,7 +25,7 @@
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
 * [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html)
   ![cpp]
-  : contains the main results in Geometry Processing from the former ALICE Inria project. [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)
+  : contains the main results in Geometry Processing from the former ALICE Inria project. [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
 * [Geometric Tools](https://github.com/davideberly/GeometricTools)
   ![cpp]
   ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
@@ -40,7 +40,7 @@
   : using Compact Half–Edge (CHE) data structure.
 * [Graphite](http://alice.loria.fr/software/graphite/doc/html/) 
   ![cpp]
-  : an experimental 3D modeler, built around geogram. [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)
+  : an experimental 3D modeler, built around geogram. [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
 * [GUDHI](https://github.com/GUDHI)
   ![cpp]
   ![python]
@@ -244,7 +244,7 @@
   * Corefinement for boolean operations in [Polygon Mesh Processing
  library](https://doc.cgal.org/latest/Manual/packages.html#PkgPolygonMeshProcessing)
   * 3D Boolean Operations on [Nef Polyhedra](https://doc.cgal.org/latest/Manual/packages.html#PkgNef3).
-* GeoGram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806).
+* Geogram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806).
 * [mcut](https://github.com/cutdigital/mcut/)
   ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
 * MeshLab
