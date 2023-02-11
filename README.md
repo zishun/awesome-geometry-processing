@@ -38,6 +38,12 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/larc/gproshan?style=flat)
   : using Compact Half–Edge (CHE) data structure.
+* [gptoolbox](https://github.com/alecjacobson/gptoolbox)
+  ![matlab]
+  ![star](https://img.shields.io/github/stars/alecjacobson/gptoolbox?style=flat)
+* [gpytoolbox](https://github.com/sgsellan/gpytoolbox)
+  ![python]
+  ![star](https://img.shields.io/github/stars/sgsellan/gpytoolbox?style=flat)
 * [Graphite](http://alice.loria.fr/software/graphite/doc/html/) 
   ![cpp]
   : an experimental 3D modeler, built around geogram. [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
@@ -349,3 +355,4 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 [cpp]: https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [python]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54
+[matlab]: https://img.shields.io/badge/matlab-3670A0?logo=matlab
