@@ -118,6 +118,10 @@
   ![star](https://img.shields.io/github/stars/PyMesh/PyMesh?style=flat)
     * [Issue with Windows](https://github.com/PyMesh/PyMesh/issues/103)
     * This is not [PyMesh](https://github.com/taxpon/pymesh)
+* [pyntcloud](https://github.com/daavoo/pyntcloud)
+  ![python]
+  ![star](https://img.shields.io/github/stars/daavoo/pyntcloud?style=flat)
+  : making point clouds fun again
 * [PyVista](https://github.com/orgs/pyvista/repositories) 
   ![python]
 * [Shapely](https://github.com/shapely/shapely)
