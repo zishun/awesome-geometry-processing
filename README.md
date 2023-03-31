@@ -241,7 +241,12 @@
 
 
 ## Boolean Operations
-* [Carve](https://github.com/PyMesh/carve), in PyMesh.
+* [Carve](https://code.google.com/archive/p/carve/)
+  * in [PyMesh](https://github.com/PyMesh/carve).
+* CGAL:
+  * Co-refinement for boolean operations in [Polygon Mesh Processing
+ library](https://doc.cgal.org/latest/Manual/packages.html#PkgPolygonMeshProcessing)
+  * 3D Boolean Operations on [Nef Polyhedra](https://doc.cgal.org/latest/Manual/packages.html#PkgNef3).
 * [Clipper](http://www.angusj.com/delphi/clipper.php): clipping and offsetting 2D lines and polygons.
   * [Clipper2](https://github.com/AngusJohnson/Clipper2)
     ![star](https://img.shields.io/github/stars/AngusJohnson/Clipper2?style=flat)
@@ -251,24 +256,21 @@
     ![star](https://img.shields.io/github/stars/fonttools/pyclipper?style=flat)
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
-* CGAL:
-  * Corefinement for boolean operations in [Polygon Mesh Processing
- library](https://doc.cgal.org/latest/Manual/packages.html#PkgPolygonMeshProcessing)
-  * 3D Boolean Operations on [Nef Polyhedra](https://doc.cgal.org/latest/Manual/packages.html#PkgNef3).
 * Geogram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806).
+* [Interactive And Robust Mesh Booleans](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans) ![star](https://img.shields.io/github/stars/gcherchi/InteractiveAndRobustMeshBooleans?style=flat): This code is subject to continuous updates. [paper](https://doi.org/10.1145/3550454.3555460).
+  * [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat)
 * [mcut](https://github.com/cutdigital/mcut/)
   ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
+* [MeshIntersection](https://github.com/sallesviana/MeshIntersection)
+  ![star](https://img.shields.io/github/stars/sallesviana/MeshIntersection?style=flat)
 * MeshLab
   * Before v2021.05: based on resampling, [Marching intersections](https://doi.org/10.1109/SMA.2001.923401). A more efficient approach based on [LDNI](https://github.com/zishun/LDNI-based-Solid-Modeling).
   * After v2021.07: based on libigl's implementation of [Mesh arrangements for solid geometry](https://doi.org/10.1145/2897824.2925901).
 * [OpenSCAD](https://openscad.org/)
   ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
-* [MeshIntersection](https://github.com/sallesviana/MeshIntersection)
-  ![star](https://img.shields.io/github/stars/sallesviana/MeshIntersection?style=flat)
-* [Interactive And Robust Mesh Booleans](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans) ![star](https://img.shields.io/github/stars/gcherchi/InteractiveAndRobustMeshBooleans?style=flat): This code is subject to continuous updates. [paper](https://doi.org/10.1145/3550454.3555460).
-  * [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat)
-
+* [QuickCSG](https://gitlab.inria.fr/quickcsg/quickcsg)
+  * [project page](http://morpheo.inrialpes.fr/static/QuickCSG/), [paper](https://arxiv.org/abs/1706.01558).
 
 
 ## Geodesic Distance
