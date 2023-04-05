@@ -9,7 +9,7 @@
 * [cg3lib](https://github.com/cg3hci/cg3lib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/cg3hci/cg3lib?style=flat)
-  : a geometry processing library developed by the CG3HCI Group of the University of Cagliari.
+  : a GP library developed by the [CG3HCI Group](http://cg3hci.dmi.unica.it/lab/en) of the University of Cagliari.
 * [CinoLib](https://github.com/mlivesu/cinolib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
@@ -20,12 +20,17 @@
 * [Easy3D](https://github.com/LiangliangNan/Easy3D/)
   ![cpp] 
   ![star](https://img.shields.io/github/stars/LiangliangNan/Easy3D?style=flat)
+* [Embree](https://github.com/embree/embree)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/embree/embree?style=flat)
+  : a ray tracing library with GP modules including geometry objects, ray/point queries, collision detection, BVH, etc.
+  * python bindings in Open3D and others.
 * [Euclid](https://github.com/unclejimbo/Euclid) 
   ![cpp] 
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
 * [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html)
   ![cpp]
-  : contains the main results in Geometry Processing from the former ALICE Inria project. [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
+  : contains the main results in GP from the former ALICE Inria project. [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
 * [Geometric Tools](https://github.com/davideberly/GeometricTools)
   ![cpp]
   ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
@@ -58,7 +63,7 @@
 * [Lagrange (Adobe)](https://github.com/adobe/lagrange/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/adobe/lagrange?style=flat)
-  : A robust geometry processing library. [Doc](opensource.adobe.com/lagrange-docs/).
+  : A robust GP library. [Doc](opensource.adobe.com/lagrange-docs/).
 * [LibIGL](http://libigl.github.io/libigl/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/libigl/libigl?style=flat)
@@ -75,9 +80,12 @@
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) 
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
-* [MeshLib](https://github.com/MeshInspector/MeshLib) ![cpp] by MeshInspector.
+* [MeshLib](https://github.com/MeshInspector/MeshLib) 
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib?style=flat)
+  by MeshInspector.
 * [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
-  : a python-based tool for easy automation and demonstration of geometry processing pipelines [(paper)](https://doi.org/DOI:10.5220/0008935900710082).
+  : a python-based tool for easy automation and demonstration of GP pipelines [(paper)](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
@@ -328,7 +336,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * [Data for machine learning](https://github.com/timzhang642/3D-Machine-Learning#datasets)
 
 
-# Other Lists on Geometry Processing
+# Other Lists on Geometry Processing (GP)
 * [SGP Software/Dataset Award List](http://awards.geometryprocessing.org/)
 * [Mesh Repairing Software on the Web](http://meshrepair.org/)
 * [Graphics Replicability Stamp Initiative](http://www.replicabilitystamp.org/)
