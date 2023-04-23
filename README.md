@@ -85,7 +85,7 @@
   ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib?style=flat)
   by MeshInspector.
 * [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
-  : a python-based tool for easy automation and demonstration of GP pipelines [(paper)](https://doi.org/DOI:10.5220/0008935900710082).
+  : a python-based tool for easy automation and demonstration of GP pipelines [(Fons et al., 2020)](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
@@ -115,7 +115,7 @@
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
-    * Its prior work: [paper](https://doi.org/10.1007/978-3-642-24734-7_29).
+    * Its prior work: [Sieger and Botsch, 2011](https://doi.org/10.1007/978-3-642-24734-7_29).
 * [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
   ![cpp]
   ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)
@@ -265,7 +265,7 @@
 * [Cork](https://github.com/gilbo/cork)
   ![star](https://img.shields.io/github/stars/gilbo/cork?style=flat)
 * Geogram: tetrahedralize the meshes and compute the boolean operations between all tetrahedra. [code](https://github.com/BrunoLevy/geogram/blob/5adf8c1eb6155f254da247b079862d24d0027b0e/src/lib/geogram/mesh/mesh_intersection.cpp#L806).
-* [Interactive And Robust Mesh Booleans](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans) ![star](https://img.shields.io/github/stars/gcherchi/InteractiveAndRobustMeshBooleans?style=flat): This code is subject to continuous updates. [paper](https://doi.org/10.1145/3550454.3555460).
+* [Interactive And Robust Mesh Booleans](https://github.com/gcherchi/InteractiveAndRobustMeshBooleans) ![star](https://img.shields.io/github/stars/gcherchi/InteractiveAndRobustMeshBooleans?style=flat): This code is subject to continuous updates. [Cherchi et al., 2022](https://doi.org/10.1145/3550454.3555460).
   * [Fast And Robust Mesh Arrangements](https://github.com/gcherchi/FastAndRobustMeshArrangements/tree/dev-booleans) ![star](https://img.shields.io/github/stars/gcherchi/FastAndRobustMeshArrangements?style=flat)
 * [mcut](https://github.com/cutdigital/mcut/)
   ![star](https://img.shields.io/github/stars/cutdigital/mcut?style=flat)
@@ -278,7 +278,7 @@
   ![star](https://img.shields.io/github/stars/openscad/openscad?style=flat)
   : creating solid 3D CAD objects. using CGAL for CSG evaluation, OpenCSG for CSG previews.
 * [QuickCSG](https://gitlab.inria.fr/quickcsg/quickcsg)
-  * [project page](http://morpheo.inrialpes.fr/static/QuickCSG/), [paper](https://arxiv.org/abs/1706.01558).
+  * [project page](http://morpheo.inrialpes.fr/static/QuickCSG/), [Douze et al., 2017](https://arxiv.org/abs/1706.01558).
 
 
 ## Geodesic Distance
