@@ -38,7 +38,7 @@
 * [Geometry Central](https://github.com/nmwsharp/geometry-central) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central?style=flat)
-  : [Doc](http://geometry-central.net/)
+  : [doc](http://geometry-central.net/)
 * [gproshan](https://github.com/larc/gproshan)
   ![cpp]
   ![star](https://img.shields.io/github/stars/larc/gproshan?style=flat)
@@ -74,6 +74,9 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/elalish/manifold?style=flat)
   : a geometry library dedicated to creating and operating on manifold triangle meshes. 
+* [MatGeom](https://github.com/mattools/matGeom)
+  ![matlab]
+  : Matlab geometry toolbox for 2D/3D geometric computing.
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=flat)
@@ -92,6 +95,10 @@
 * [MPI-IS Mesh](https://github.com/MPI-IS/mesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/MPI-IS/mesh?style=flat)
+* [Numerical Tours](https://github.com/gpeyre/numerical-tours)
+  ![python] ![matlab]
+  ![star](https://img.shields.io/github/stars/gpeyre/numerical-tours?style=flat)
+  : includes some topics about mesh processing, mesh parameterization and deformation, and multiscale mesh processing. [website](http://www.numerical-tours.com/)
 * [Open3D](http://www.open3d.org/) 
   ![cpp]
   ![python]
@@ -100,6 +107,7 @@
   ![cpp]
   ![python]
   ![star](https://img.shields.io/github/stars/Geode-solutions/OpenGeode?style=flat)
+  : [doc](https://docs.geode-solutions.com/)
 * [OpenGP](https://github.com/OpenGP/OpenGP) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/OpenGP/OpenGP?style=flat)
