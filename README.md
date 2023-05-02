@@ -28,9 +28,10 @@
 * [Euclid](https://github.com/unclejimbo/Euclid) 
   ![cpp] 
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
-* [Geogram](http://alice.loria.fr/index.php/software/4-library/75-geogram.html)
+* [Geogram](https://github.com/BrunoLevy/geogram)
   ![cpp]
-  : contains the main results in GP from the former ALICE Inria project. [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram)![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
+  ![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
+  : contains the main results in GP from the former ALICE Inria project.
 * [Geometric Tools](https://github.com/davideberly/GeometricTools)
   ![cpp]
   ![star](https://img.shields.io/github/stars/davideberly/GeometricTools?style=flat)
@@ -49,9 +50,10 @@
 * [gpytoolbox](https://github.com/sgsellan/gpytoolbox)
   ![python]
   ![star](https://img.shields.io/github/stars/sgsellan/gpytoolbox?style=flat)
-* [Graphite](http://alice.loria.fr/software/graphite/doc/html/) 
+* [Graphite](https://github.com/BrunoLevy/GraphiteThree) 
   ![cpp]
-  : an experimental 3D modeler, built around geogram. [BrunoLevy/GraphiteThree](https://github.com/BrunoLevy/GraphiteThree)![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
+  ![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
+  : an experimental 3D modeler, built around geogram.
 * [GUDHI](https://github.com/GUDHI)
   ![cpp]
   ![python]
@@ -76,6 +78,7 @@
   : a geometry library dedicated to creating and operating on manifold triangle meshes. 
 * [MatGeom](https://github.com/mattools/matGeom)
   ![matlab]
+  ![star](https://img.shields.io/github/stars/mattools/matGeom?style=flat)
   : Matlab geometry toolbox for 2D/3D geometric computing.
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
   ![cpp]
@@ -146,6 +149,7 @@
   : making point clouds fun again
 * [PyVista](https://github.com/orgs/pyvista/repositories) 
   ![python]
+  ![star](https://img.shields.io/github/stars/pyvista/pyvista?style=flat)
 * [Shapely](https://github.com/shapely/shapely)
   ![python]
   ![star](https://img.shields.io/github/stars/shapely/shapely?style=flat)
