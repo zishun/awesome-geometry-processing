@@ -123,6 +123,9 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/AcademySoftwareFoundation/openvdb?style=flat)
   : Sparse volume data structure and tools
+* [OpenVolumeMesh](https://www.graphics.rwth-aachen.de/software/openvolumemesh/) 
+  ![cpp]
+  : a data structure for arbitrary polytopal meshes. Its concepts are closely related to OpenMesh.
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
