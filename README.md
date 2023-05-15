@@ -118,7 +118,7 @@
 * [OpenMesh](https://www.openmesh.org/) 
   ![cpp]
   [![python]](https://www.graphics.rwth-aachen.de:9000/OpenMesh/openmesh-python) 
-  : Half-edge data structure.
+  : Half-edge data structure for surface meshes.
 * [OpenVDB](https://www.openvdb.org/)
   ![cpp]
   ![star](https://img.shields.io/github/stars/AcademySoftwareFoundation/openvdb?style=flat)
