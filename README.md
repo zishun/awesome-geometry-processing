@@ -40,6 +40,10 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/nmwsharp/geometry-central?style=flat)
   : [doc](http://geometry-central.net/)
+* [GEOS](https://github.com/libgeos/geos)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/libgeos/geos?style=flat)
+  : Geometry Engine, Open Source. Computational geometry library with a focus on algorithms used in geographic information systems (GIS). [website](https://libgeos.org/)
 * [gproshan](https://github.com/larc/gproshan)
   ![cpp]
   ![star](https://img.shields.io/github/stars/larc/gproshan?style=flat)
