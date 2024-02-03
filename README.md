@@ -58,6 +58,9 @@
   ![cpp]
   ![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
   : an experimental 3D modeler, built around geogram.
+* [GTS](https://gts.sourceforge.net/)
+  ![C]
+  :  GNU Triangulated Surface Library.
 * [GUDHI](https://github.com/GUDHI)
   ![cpp]
   ![python]
@@ -385,5 +388,6 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 
 
 [cpp]: https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
+[C]: https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white
 [python]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54
 [matlab]: https://img.shields.io/badge/matlab-3670A0?logo=matlab
