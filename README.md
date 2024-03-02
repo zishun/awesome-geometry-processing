@@ -170,6 +170,7 @@
 * [trimesh](https://github.com/mikedh/trimesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
+  : [documentation](https://trimesh.org/)
 * [trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/)
     ![cpp]
     : different from the trimesh library above.
@@ -351,6 +352,7 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * [Alec Jacobson's courses](https://github.com/alecjacobson)
 * [Geometric Computing with Python](https://geometryprocessing.github.io/geometric-computing-python/)
 * [Discrete Differential Geometry](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/) by Keenan Crane
+* [Summer Geometry Initiative](https://sgi.mit.edu/): by MIT
 
 
 # Data
