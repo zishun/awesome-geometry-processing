@@ -3,7 +3,16 @@
 ![star](https://img.shields.io/github/stars/<user>/<repo>?style=flat)
 -->
 ## General Libraries
-* [CGAL](https://www.cgal.org/) ![cpp]
+* [Boost.Geometry](https://github.com/boostorg/geometry)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/boostorg/geometry?style=flat)
+  : convex hull, intersection (clipping), within (point in polygon), distance, envelope (bounding box), simplify, transform, and much more. supports high precision arithmetic numbers, such as ttmath. [doc](boost.org/libs/geometry)
+* [Boost.Polygon](https://github.com/boostorg/polygon)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/boostorg/polygon?style=flat)
+  : the polygon set operations (intersection, union, difference, disjoint-union) and related algorithms such as polygon connectivity graph extraction, offsetting and map-overlay. [doc](boost.org/libs/polygon)
+* [CGAL](https://www.cgal.org/)
+  ![cpp]
   ![star](https://img.shields.io/github/stars/cgal/cgal?style=flat)
   : The Computational Geometry Algorithms Library.
 * [cg3lib](https://github.com/cg3hci/cg3lib) 
@@ -15,11 +24,13 @@
   ![star](https://img.shields.io/github/stars/mlivesu/cinolib?style=flat)
   : a generic programming header-only C++ library for processing polygonal and polyhedral meshes.
 * [DGtal](https://github.com/DGtal-team/DGtal)
-  ![cpp] 
+  ![cpp]
   ![star](https://img.shields.io/github/stars/DGtal-team/DGtal?style=flat)
+  : A library for digital geometry processing and analysis.
 * [Easy3D](https://github.com/LiangliangNan/Easy3D/)
   ![cpp] 
   ![star](https://img.shields.io/github/stars/LiangliangNan/Easy3D?style=flat)
+  : A lightweight and easy-to-use 3D mesh processing library.
 * [Embree](https://github.com/embree/embree)
   ![cpp]
   ![star](https://img.shields.io/github/stars/embree/embree?style=flat)
@@ -28,6 +39,7 @@
 * [Euclid](https://github.com/unclejimbo/Euclid) 
   ![cpp] 
   ![star](https://img.shields.io/github/stars/unclejimbo/Euclid?style=flat)
+  : A C++ library for computational geometry and mesh processing.
 * [Geogram](https://github.com/BrunoLevy/geogram)
   ![cpp]
   ![star](https://img.shields.io/github/stars/BrunoLevy/geogram?style=flat)
@@ -51,16 +63,18 @@
 * [gptoolbox](https://github.com/alecjacobson/gptoolbox)
   ![matlab]
   ![star](https://img.shields.io/github/stars/alecjacobson/gptoolbox?style=flat)
+  : A MATLAB toolbox for geometry processing tasks.
 * [gpytoolbox](https://github.com/sgsellan/gpytoolbox)
   ![python]
   ![star](https://img.shields.io/github/stars/sgsellan/gpytoolbox?style=flat)
+  : A Python toolbox for geometry processing.
 * [Graphite](https://github.com/BrunoLevy/GraphiteThree) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/BrunoLevy/GraphiteThree?style=flat)
   : an experimental 3D modeler, built around geogram.
 * [GTS](https://gts.sourceforge.net/)
   ![C]
-  :  GNU Triangulated Surface Library.
+  : GNU Triangulated Surface Library.
 * [GUDHI](https://github.com/GUDHI)
   ![cpp]
   ![python]
@@ -76,6 +90,7 @@
 * [LibIGL](http://libigl.github.io/libigl/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/libigl/libigl?style=flat)
+  : A simple C++ geometry processing library.
   * [libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
     ![python]
     ![star](https://img.shields.io/github/stars/libigl/libigl-python-bindings?style=flat)
@@ -90,21 +105,24 @@
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
   ![cpp]
   ![star](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=flat)
+  : An open-source system for processing and editing 3D triangular meshes.
   * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) 
     ![python]
     ![star](https://img.shields.io/github/stars/cnr-isti-vclab/PyMeshLab?style=flat)
 * [MeshLib](https://github.com/MeshInspector/MeshLib) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/MeshInspector/MeshLib?style=flat)
-  by MeshInspector.
+  : A C++ library for mesh processing and analysis by MeshInspector.
 * [MeshPipe](https://gitrepos.virvig.eu/jfons/meshpipe)
   : a python-based tool for easy automation and demonstration of GP pipelines [(Fons et al., 2020)](https://doi.org/DOI:10.5220/0008935900710082).
 * [MeshUtility](https://github.com/zishun/meshutility/) 
   ![python]
   ![star](https://img.shields.io/github/stars/zishun/meshutility?style=flat)
+  : A Python library for mesh utility functions.
 * [MPI-IS Mesh](https://github.com/MPI-IS/mesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/MPI-IS/mesh?style=flat)
+  : A Python library for mesh processing.
 * [Numerical Tours](https://github.com/gpeyre/numerical-tours)
   ![python] ![matlab]
   ![star](https://img.shields.io/github/stars/gpeyre/numerical-tours?style=flat)
@@ -113,6 +131,7 @@
   ![cpp]
   ![python]
   ![star](https://img.shields.io/github/stars/isl-org/Open3D?style=flat)
+  : A modern library for 3D data processing.
 * [OpenGeode](https://github.com/Geode-solutions/OpenGeode)
   ![cpp]
   ![python]
@@ -126,6 +145,10 @@
   ![cpp]
   [![python]](https://www.graphics.rwth-aachen.de:9000/OpenMesh/openmesh-python) 
   : Half-edge data structure for surface meshes.
+* [OpenSubdiv](https://www.opensubdiv.org/docs/intro.html)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/PixarAnimationStudios/OpenSubdiv?style=flat)
+  : An Open-Source subdivision surface library.
 * [OpenVDB](https://www.openvdb.org/)
   ![cpp]
   ![star](https://img.shields.io/github/stars/AcademySoftwareFoundation/openvdb?style=flat)
@@ -136,10 +159,12 @@
 * [PMP Library](https://github.com/pmp-library/pmp-library/) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/pmp-library/pmp-library?style=flat)
+  : A C++ library for polygon mesh processing.
     * Its prior work: [Sieger and Botsch, 2011](https://doi.org/10.1007/978-3-642-24734-7_29).
 * [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
   ![cpp]
   ![star](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)
+  : A standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [Point Cloud Utils (pcu)](https://github.com/fwilliams/point-cloud-utils)
   ![python]
   ![star](https://img.shields.io/github/stars/fwilliams/point-cloud-utils?style=flat)
@@ -151,6 +176,7 @@
 * [PyMesh(2)](https://github.com/PyMesh/PyMesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/PyMesh/PyMesh?style=flat)
+  : A rapid prototyping platform for geometry processing research.
     * [Issue with Windows](https://github.com/PyMesh/PyMesh/issues/103)
     * This is not [PyMesh](https://github.com/taxpon/pymesh)
 * [pyntcloud](https://github.com/daavoo/pyntcloud)
@@ -160,6 +186,7 @@
 * [PyVista](https://github.com/orgs/pyvista/repositories) 
   ![python]
   ![star](https://img.shields.io/github/stars/pyvista/pyvista?style=flat)
+  : A Python package for 3D plotting and mesh analysis.
 * [Shapely](https://github.com/shapely/shapely)
   ![python]
   ![star](https://img.shields.io/github/stars/shapely/shapely?style=flat)
@@ -167,6 +194,7 @@
 * [Thea](https://github.com/sidch/Thea)
   ![cpp]
   ![star](https://img.shields.io/github/stars/sidch/Thea?style=flat)
+  : A C++ library for computer graphics and geometry processing.
 * [trimesh](https://github.com/mikedh/trimesh) 
   ![python]
   ![star](https://img.shields.io/github/stars/mikedh/trimesh?style=flat)
@@ -203,7 +231,9 @@
 ## GUI for GP
 * [starlab](https://github.com/OpenGP/starlab) ![cpp]
   ![star](https://img.shields.io/github/stars/OpenGP/starlab?style=flat)
+  : A framework for developing geometry processing algorithms.
 * [OpenFlipper](https://www.graphics.rwth-aachen.de/software/openflipper/) ![cpp]
+  : An open source multi-purpose 3D software.
 * [polyscope](https://github.com/nmwsharp/polyscope) 
   ![cpp] ![python]
   ![star](https://img.shields.io/github/stars/nmwsharp/polyscope?style=flat)
@@ -226,9 +256,34 @@
 
 
 ## Mesh Generation
+* [Gmsh](http://gmsh.info/)
+  ![cpp] ![python]
+  : A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
+* [jigsaw](https://github.com/dengwirda/jigsaw)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/dengwirda/jigsaw?style=flat)
+  [![python]](https://github.com/dengwirda/jigsaw-python)
+  ![star](https://img.shields.io/github/stars/dengwirda/jigsaw-python?style=flat)
+  : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface, and volumetric domains.
+* [MeshPy](https://github.com/inducer/meshpy)
+  ![python]
+  ![star](https://img.shields.io/github/stars/inducer/meshpy?style=flat)
+  : Python interfaces to Triangle, TetGen, and gmsh.
+* [netgen](https://github.com/NGSolve/netgen)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/NGSolve/netgen?style=flat)
+  : an automatic 3d tetrahedral mesh generator.
+* [Qhull](https://github.com/qhull/qhull)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/qhull/qhull?style=flat)
+  : Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection
 * [Quartet](https://github.com/crawforddoran/quartet)
   ![cpp]
   ![star](https://img.shields.io/github/stars/crawforddoran/quartet?style=flat)
+  : A tetrahedral meshing algorithm.
+* [scipy.spatial](https://docs.scipy.org/doc/scipy-1.8.0/html-scipyorg/reference/spatial.html#delaunay-triangulation-convex-hulls-and-voronoi-diagrams)
+  ![python]
+  : Delaunay triangulation, convex hulls, and Voronoi diagrams.
 * [TetGen](http://wias-berlin.de/software/tetgen/)
   ![cpp]
   : A quality tetrahedral mesh generator and a 3D Delaunay triangulator.
@@ -237,7 +292,11 @@
   : A two-dimensional quality mesh generator and Delaunay triangulator.
   * [python binding](https://github.com/drufat/triangle)
     ![python]
+* [Voro++](http://math.lbl.gov/voro++/) 
+  ![cpp]
+  : 3D computations of the Voronoi tessellation.
 * [WildMeshing](https://github.com/wildmeshing)
+  : A collection of tools for robust mesh generation.
   * [TriWild](https://github.com/wildmeshing/TriWild) 
     ![cpp] 
     ![star](https://img.shields.io/github/stars/wildmeshing/TriWild?style=flat)
@@ -247,29 +306,6 @@
     ![star](https://img.shields.io/github/stars/wildmeshing/fTetWild?style=flat)
     Fast Tetrahedral Meshing in the Wild
   * [wildmeshing-python](https://github.com/wildmeshing/wildmeshing-python) ![python] ![star](https://img.shields.io/github/stars/wildmeshing/wildmeshing-python?style=flat)
-* [jigsaw](https://github.com/dengwirda/jigsaw)
-  ![cpp]
-  ![star](https://img.shields.io/github/stars/dengwirda/jigsaw?style=flat)
-  [![python]](https://github.com/dengwirda/jigsaw-python)
-  ![star](https://img.shields.io/github/stars/dengwirda/jigsaw-python?style=flat)
-  : an unstructured mesh generator and tessellation library; designed to generate high-quality triangulations and polyhedral decompositions of general planar, surface, and volumetric domains.
-* [Gmsh](http://gmsh.info/)
-  ![cpp] ![python]
-  : A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.
-* [MeshPy](https://github.com/inducer/meshpy)
-  ![python]
-  ![star](https://img.shields.io/github/stars/inducer/meshpy?style=flat)
-  : Python interfaces to Triangle, TetGen, and gmsh.
-* [Voro++](http://math.lbl.gov/voro++/) 
-  ![cpp]
-  : 3D computations of the Voronoi tessellation.
-* [scipy.spatial](https://docs.scipy.org/doc/scipy-1.8.0/html-scipyorg/reference/spatial.html#delaunay-triangulation-convex-hulls-and-voronoi-diagrams)
-  ![python]
-  : Delaunay triangulation, convex hulls, and Voronoi diagrams.
-* [Qhull](https://github.com/qhull/qhull)
-  ![cpp]
-  ![star](https://img.shields.io/github/stars/qhull/qhull?style=flat)
-  : Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection
 
 
 ## Boolean Operations
@@ -332,6 +368,10 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
   ![cpp]
   ![star](https://img.shields.io/github/stars/avaxman/Directional?style=flat)
   : creating, manipulating, and visualizing directional fields on 3D meshes, based on both libigl and Eigen.
+* [Instant Meshes](https://github.com/wjakob/instant-meshes)
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/wjakob/instant-meshes?style=flat)
+  : Interactive field-aligned mesh generator
 * [mmg](https://github.com/MmgTools/mmg) 
   ![cpp]
   ![star](https://img.shields.io/github/stars/MmgTools/mmg?style=flat)
@@ -339,7 +379,10 @@ Survey paper: [Crane et al., 2020](https://arxiv.org/pdf/2007.10430.pdf)
 * [ShapeOp](https://github.com/EPFL-LGG/ShapeOp)
   ![cpp]
   : discrete geometry shaping with projections.
-* [Draco](https://google.github.io/draco/): an open-source library for compressing and decompressing 3D geometric meshes and point clouds.
+* [Draco](https://google.github.io/draco/): 
+  ![cpp]
+  ![star](https://img.shields.io/github/stars/google/draco?style=flat)
+  : an open-source library for compressing and decompressing 3D geometric meshes and point clouds.
 * [Robust Geometric Predicates](https://www.cs.cmu.edu/~quake/robust.html): adaptive precision floating-point arithmetic and fast robust predicates for computational geometry
 
 
